@@ -1,14 +1,14 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `${htki} RULES ${htka}
 
- > BANNED + DENDA 5K :
+ > BANNED :
 ┃• Spam Chat
 ┃• Spam Call
 ┃• Spam SMS
 ┃• Menghina Bot
 
 ┃> Note : Jika Tidak Membayar Denda
-┃> Maka Bot Akan Banned User Permanen dan Teror virus
+┃> Maka Bot Akan Banned User Permanen 
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: 'Youtube', url: 'https://www.youtube.com/channel/UC1esKQw-DKM5Xa5hF7vqdGA'}},
