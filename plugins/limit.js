@@ -6,7 +6,7 @@ let list = Object.entries(global.db.data.users)
 	list.map(([user, data], i) => (Number(data.limit = lim)))
 		conn.reply(m.chat, `*berhasil direset ${lim} / user*`, m)
 		}
-    let thumbLimit = `https://telegra.ph/file/39146a151c83b2f015dbe.jpg`
+    let thumbLimit = `https://telegra.ph/file/abea6ab9ca1eeca17dce7.jpg`
 		
     let who
     if (m.isGroup) who = m.mentionedJid[0] ? m.mentionedJid[0] : m.sender
