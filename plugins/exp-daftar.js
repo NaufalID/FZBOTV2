@@ -60,7 +60,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ┗━━━━━━━━━━㉿ 
 ⫹⫺ 
 ⫹⫺`, 
-   footer: `┗ © FangzXD*`, 
+   footer: `┗ © Naufal Muflih*`, 
    title: "", 
    buttonText: "CLICK HERE", 
    sections 
@@ -87,7 +87,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
  ╭━━━━「 *BERHASIL* 」
  ❖ Terima kasih ${name} Sudah mendaftar
 Di Database kami
- ❖ © FANGZ BOT || ALL RESERVED
+ ❖ © Whatsapp || ALL RESERVED
 
  ╭━━━━「 *DATA* 」
  ┊⫹ *Sucsess ☑️* 】Status
