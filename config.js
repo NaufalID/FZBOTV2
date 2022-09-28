@@ -30,7 +30,7 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=' //Instagram mu
+global.sig = 'https://www.instagram.com/nauffhdkz/' //Instagram mu
 global.sgh = 'https://github.com/naufalmuflih' //Github mu
 global.swb = 'https://naufalmuflih.websites.co.in'
 global.sfb = 'https://www.facebook.com/'
