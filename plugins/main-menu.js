@@ -200,7 +200,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	    {title: `📛)ഒ Info Bot`, rowId: ".info", description: "✧ Info nya Whatsapp BOT ><"},
 	    {title: `💌)ഒ Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
 	{title: `🗣)ഒ Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
-	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status 赤 FANGZ - BOT"},
+	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status 赤 Whatsapp - BOT"},
 	{title: `📊)ഒ Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
 	{title: `⚡)ഒ Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 Whatsapp - BOT..."},
 	]
