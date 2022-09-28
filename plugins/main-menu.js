@@ -272,7 +272,7 @@ let usrs = db.data.users[m.sender]
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
  
 let tek = `
-  「 FANGZBOT-MD ⁩㊣ 」
+  「 WhatsappBot-MD ⁩㊣ 」
 
  ╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣ 
  │⬡ User :  *${await conn.getName(m.sender)}*
@@ -559,10 +559,10 @@ await conn[_0x187932(0x1c2)](m[_0x187932(0x1cf)], buttonMessage, {
 	return conn.sendButton(m.chat, '.', text, img2, [["SEWA BOT", _p + "sewabot"], ["SCRIPT", _p + "sc"], ["OWNER", _p + "owner"]], m, {
         contextInfo: {
             externalAdReply: {
-                mediaUrl: "https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=",
+                mediaUrl: "https://www.instagram.com/nauffhdkz/",
                 mediaType: "VIDEO",
                 title: `Hallo ${name} ${ucpn}`,
-                body: 'Source Code by FangzXD',
+                body: 'Source Code by Naufal Muflih',
                 previewType: 0,
                 thumbnail: img
             }
@@ -591,7 +591,7 @@ function _0x1766() {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://fangzbot.websites.co.in/'
+                        url: 'https://Naufalmuflih.websites.co.in/'
                     }
                 },
                 {
