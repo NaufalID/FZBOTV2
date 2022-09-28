@@ -93,7 +93,7 @@ global.owner = [
 global.mods = [] // Want some help?
 global.cheat = [] // ketik .cheat aja
 global.waifu = []
-global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @Fangz 15
+global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @Naufal Muflih 15
 
 
 /*⫘⫘⫘⫘ APIKEY ⫘⫘⫘⫘⫘*/
@@ -119,11 +119,11 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEY',
+  'https://api.xteam.xyz': 'apikeyaine',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'APIKEY',
+  'https://api.lolhuman.xyz': '8e66d0934cf741bfd2182c16',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'APIKEY',
+  'https://api.zeks.xyz': 'apikeyaine',
   'https://pencarikode.xyz': 'pais',
   'https://api.neoxr.my.id' : '5VC9rvNx',
   'https://rest-beni.herokuapp.com' : 'benniismaelapikey',
@@ -135,10 +135,10 @@ global.APIKeys = { // APIKey Here
   'https://hardianto.xyz': 'hardianto',
   'https://zenzapis.xyz' : 'f9fccfcff1',
   'https://hardianto-chan.herokuapp.com' : 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'APIKEY',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
 }
 /*Xteam*/
-global.xteamkey = 'APIKEY'
+global.xteamkey = 'apikeyaine'
 /*Xcoders*/
 global.xckey = 'BOhjM2hUVn'
 // KATA "APIKEY" GANTI DENGAN APIKEY MU SENDIRI
