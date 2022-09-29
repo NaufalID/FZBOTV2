@@ -12,14 +12,12 @@ if (command == 'sewabot') {
 ║ ┅ ๑————————————๑
 ║┊ ⌲ *Hemat* = _5k/grup (1 minggu)_
 ║┊ ⌲ *Normal* = _15k/grup (1 bulan)_
-║┊ ⌲ *Standar* = _45k/grup (3 bulan)_
-║┊ ⌲ *Pro* = _65k/grup (5 bulan)_                                                                      
+║┊ ⌲ *Standar* = _45k/grup (3 bulan)_                                                                 
 ╰═ ┅ ═══════
 
 
 ༅ _*FITUR BOT*
 
-✧ *Virtex Menu✅*
 ✧ *Menu Keren✅*
 ✧ *Anti Link✅*
 ✧ *Button Menu✅*
